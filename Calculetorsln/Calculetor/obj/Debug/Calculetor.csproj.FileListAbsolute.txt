@@ -1,0 +1,10 @@
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\bin\Debug\Calculetor.exe.config
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\bin\Debug\Calculetor.exe
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\bin\Debug\Calculetor.pdb
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\obj\Debug\Calculetor.csproj.AssemblyReference.cache
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\obj\Debug\Calculetor.Form1.resources
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\obj\Debug\Calculetor.Properties.Resources.resources
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\obj\Debug\Calculetor.csproj.GenerateResource.cache
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\obj\Debug\Calculetor.csproj.CoreCompileInputs.cache
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\obj\Debug\Calculetor.exe
+G:\Workstor\ibnatcsrp\Calculetorsln\Calculetor\obj\Debug\Calculetor.pdb

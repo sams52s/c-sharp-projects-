@@ -1,0 +1,6 @@
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\DEL\bin\Debug\DEL.dll
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\DEL\bin\Debug\DEL.pdb
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\DEL\obj\Debug\DEL.csproj.AssemblyReference.cache
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\DEL\obj\Debug\DEL.csproj.CoreCompileInputs.cache
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\DEL\obj\Debug\DEL.dll
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\DEL\obj\Debug\DEL.pdb

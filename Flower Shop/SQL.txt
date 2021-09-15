@@ -1,0 +1,51 @@
+************************Item************************
+CREATE TABLE [dbo].[Item] (
+    [Id]       INT            IDENTITY (1, 1) NOT NULL,
+    [Name]     NVARCHAR (MAX) NULL,
+    [quantity] INT            NULL,
+    [Price]    INT            NULL,
+    CONSTRAINT [PK__Item__3214EC079FC9070B] PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+********************** Order *************************
+CREATE TABLE [dbo].[Order] (
+    [Id]     INT           IDENTITY (1, 1) NOT NULL,
+    [userId] INT           NULL,
+    [itemId] INT           NULL,
+    [price]  NVARCHAR (50) NULL,
+    CONSTRAINT [PK_Order] PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+**********************SignUp***************************
+CREATE TABLE [dbo].[SignUp] (
+    [Id]          INT            IDENTITY (1, 1) NOT NULL,
+    [AIUBId]      NVARCHAR (100) NOT NULL,
+    [name]        NVARCHAR (50)  NULL,
+    [password]    NVARCHAR (50)  NULL,
+    [mail]        NVARCHAR (50)  NULL,
+    [Phonenumber] NVARCHAR (50)  NULL,
+    [gender]      NVARCHAR (50)  NULL,
+    [UserType]    NVARCHAR (50)  NULL,
+    CONSTRAINT [PK_SignUp] PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+**********************Cart***************************
+CREATE TABLE [dbo].[Cart] (
+    [Id]       INT           IDENTITY (1, 1) NOT NULL,
+    [userId]   INT           NOT NULL,
+    [itemId]   INT           NOT NULL,
+    [quantity] NVARCHAR (50) NULL,
+    [price]    NVARCHAR (50) NULL,
+    CONSTRAINT [PK_Cart] PRIMARY KEY CLUSTERED ([Id] ASC)
+);

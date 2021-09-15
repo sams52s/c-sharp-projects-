@@ -1,0 +1,16 @@
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\bin\Debug\cafeMS.exe.config
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\bin\Debug\cafeMS.exe
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\bin\Debug\cafeMS.pdb
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.csproj.AssemblyReference.cache
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.editProfile.resources
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.Form1.resources
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.Properties.Resources.resources
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.Registration.resources
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.viewProfile.resources
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.csproj.GenerateResource.cache
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.csproj.CoreCompileInputs.cache
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.exe
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.pdb
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\bin\Debug\DEL.dll
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\bin\Debug\DEL.pdb
+G:\Workstor\C# project\AIUB Cafe\cafeMSsln\cafeMS\obj\Debug\cafeMS.csproj.CopyComplete

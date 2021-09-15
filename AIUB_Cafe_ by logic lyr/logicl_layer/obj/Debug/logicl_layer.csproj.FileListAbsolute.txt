@@ -1,0 +1,6 @@
+G:\University\Work in progress\c#\AIUB_Cafe_sln\logicl_layer\bin\Debug\logicl_layer.dll
+G:\University\Work in progress\c#\AIUB_Cafe_sln\logicl_layer\bin\Debug\logicl_layer.pdb
+G:\University\Work in progress\c#\AIUB_Cafe_sln\logicl_layer\obj\Debug\logicl_layer.csproj.AssemblyReference.cache
+G:\University\Work in progress\c#\AIUB_Cafe_sln\logicl_layer\obj\Debug\logicl_layer.csproj.CoreCompileInputs.cache
+G:\University\Work in progress\c#\AIUB_Cafe_sln\logicl_layer\obj\Debug\logicl_layer.dll
+G:\University\Work in progress\c#\AIUB_Cafe_sln\logicl_layer\obj\Debug\logicl_layer.pdb

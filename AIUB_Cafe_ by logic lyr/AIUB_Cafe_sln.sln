@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIUB_Cafe", "AIUB_Cafe\AIUB_Cafe.csproj", "{B653D63F-C162-4527-930B-1F06856BC5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicl_layer", "logicl_layer\logicl_layer.csproj", "{1C04B979-73D0-4BB2-AE4C-AB9B0290DCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B653D63F-C162-4527-930B-1F06856BC5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B653D63F-C162-4527-930B-1F06856BC5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B653D63F-C162-4527-930B-1F06856BC5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B653D63F-C162-4527-930B-1F06856BC5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C04B979-73D0-4BB2-AE4C-AB9B0290DCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C04B979-73D0-4BB2-AE4C-AB9B0290DCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C04B979-73D0-4BB2-AE4C-AB9B0290DCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C04B979-73D0-4BB2-AE4C-AB9B0290DCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EB487CE-6FD7-421D-94EE-B5EBEAC22543}
+	EndGlobalSection
+EndGlobal
